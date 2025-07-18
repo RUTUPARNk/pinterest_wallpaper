@@ -1,0 +1,60 @@
+2025-07-18 23:08:31,600 - INFO - Created download folder: C:/PinterestImages
+2025-07-18 23:08:31,600 - INFO - ====== WebDriver manager ======
+2025-07-18 23:08:32,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 23:08:32,258 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-07-18 23:08:32,281 - INFO - Driver downloading response is 200
+2025-07-18 23:08:33,201 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 23:08:33,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 23:08:33,921 - INFO - Driver has been saved in cache [C:\Users\ved\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-07-18 23:08:36,517 - ERROR - Failed to initialize WebDriver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BEA813+48355]
+	(No symbol) [0x00B7C4B1]
+	(No symbol) [0x00A85358]
+	(No symbol) [0x00AA1A9E]
+	(No symbol) [0x00AA0579]
+	(No symbol) [0x00AD0C55]
+	(No symbol) [0x00AD093C]
+	(No symbol) [0x00ACA536]
+	(No symbol) [0x00AA82DC]
+	(No symbol) [0x00AA93DD]
+	GetHandleVerifier [0x00E4AABD+2539405]
+	GetHandleVerifier [0x00E8A78F+2800735]
+	GetHandleVerifier [0x00E8456C+2775612]
+	GetHandleVerifier [0x00C751E0+616112]
+	(No symbol) [0x00B85F8C]
+	(No symbol) [0x00B82328]
+	(No symbol) [0x00B8240B]
+	(No symbol) [0x00B74FF7]
+	BaseThreadInitThunk [0x77345D49+25]
+	RtlInitializeExceptionChain [0x77D2D1AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77D2D131+561]
+
+2025-07-18 23:08:36,517 - ERROR - Scrape failed: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BEA813+48355]
+	(No symbol) [0x00B7C4B1]
+	(No symbol) [0x00A85358]
+	(No symbol) [0x00AA1A9E]
+	(No symbol) [0x00AA0579]
+	(No symbol) [0x00AD0C55]
+	(No symbol) [0x00AD093C]
+	(No symbol) [0x00ACA536]
+	(No symbol) [0x00AA82DC]
+	(No symbol) [0x00AA93DD]
+	GetHandleVerifier [0x00E4AABD+2539405]
+	GetHandleVerifier [0x00E8A78F+2800735]
+	GetHandleVerifier [0x00E8456C+2775612]
+	GetHandleVerifier [0x00C751E0+616112]
+	(No symbol) [0x00B85F8C]
+	(No symbol) [0x00B82328]
+	(No symbol) [0x00B8240B]
+	(No symbol) [0x00B74FF7]
+	BaseThreadInitThunk [0x77345D49+25]
+	RtlInitializeExceptionChain [0x77D2D1AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77D2D131+561]
+
+2025-07-18 23:08:36,517 - WARNING - No images downloaded in this cycle
+2025-07-18 23:08:36,517 - INFO - Waiting 3600 seconds for next cycle...

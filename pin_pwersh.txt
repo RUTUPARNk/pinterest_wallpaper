@@ -1,0 +1,2 @@
+to create new : python3 -m venv pin
+to activate : .\pin\Scripts\activate

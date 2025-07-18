@@ -1,0 +1,653 @@
+2025-07-18 23:23:27,215 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-18 23:23:27,215 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:23:27,216 - INFO -  * Restarting with stat
+2025-07-18 23:23:27,720 - WARNING -  * Debugger is active!
+2025-07-18 23:23:27,731 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:23:43,802 - INFO - 127.0.0.1 - - [18/Jul/2025 23:23:43] "GET / HTTP/1.1" 200 -
+2025-07-18 23:23:44,122 - INFO - 127.0.0.1 - - [18/Jul/2025 23:23:44] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-18 23:23:45,383 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 1657
+2025-07-18 23:23:45,384 - INFO - 127.0.0.1 - - [18/Jul/2025 23:23:45] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:24:16,277 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 1657
+2025-07-18 23:24:16,278 - INFO - 127.0.0.1 - - [18/Jul/2025 23:24:16] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:24:46,656 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 22
+2025-07-18 23:24:46,657 - INFO - 127.0.0.1 - - [18/Jul/2025 23:24:46] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:25:15,479 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 1657
+2025-07-18 23:25:15,480 - INFO - 127.0.0.1 - - [18/Jul/2025 23:25:15] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:25:45,991 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 1657
+2025-07-18 23:25:45,992 - INFO - 127.0.0.1 - - [18/Jul/2025 23:25:45] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:26:15,267 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 1657
+2025-07-18 23:26:15,268 - INFO - 127.0.0.1 - - [18/Jul/2025 23:26:15] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:26:45,564 - ERROR - Error fetching images: not well-formed (invalid token): line 267, column 1657
+2025-07-18 23:26:45,565 - INFO - 127.0.0.1 - - [18/Jul/2025 23:26:45] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:26:57,748 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:26:57,783 - INFO -  * Restarting with stat
+2025-07-18 23:26:58,391 - WARNING -  * Debugger is active!
+2025-07-18 23:26:58,398 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:26:59,961 - INFO - 127.0.0.1 - - [18/Jul/2025 23:26:59] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-18 23:27:01,639 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:27:01,640 - INFO - 127.0.0.1 - - [18/Jul/2025 23:27:01] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:27:32,039 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:27:32,041 - INFO - 127.0.0.1 - - [18/Jul/2025 23:27:32] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:28:02,311 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:28:02,312 - INFO - 127.0.0.1 - - [18/Jul/2025 23:28:02] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:28:31,737 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:28:31,738 - INFO - 127.0.0.1 - - [18/Jul/2025 23:28:31] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:28:42,092 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-18 23:28:42,092 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:28:42,093 - INFO -  * Restarting with stat
+2025-07-18 23:28:42,593 - WARNING -  * Debugger is active!
+2025-07-18 23:28:42,600 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:28:48,927 - INFO - 127.0.0.1 - - [18/Jul/2025 23:28:48] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-18 23:28:50,397 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:28:50,398 - INFO - 127.0.0.1 - - [18/Jul/2025 23:28:50] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:29:20,705 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:29:20,706 - INFO - 127.0.0.1 - - [18/Jul/2025 23:29:20] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:29:50,992 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:29:50,993 - INFO - 127.0.0.1 - - [18/Jul/2025 23:29:50] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:30:20,516 - ERROR - Error fetching images: not well-formed (invalid token): line 248, column 604
+2025-07-18 23:30:20,517 - INFO - 127.0.0.1 - - [18/Jul/2025 23:30:20] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:30:48,692 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:30:48,738 - INFO -  * Restarting with stat
+2025-07-18 23:30:49,304 - WARNING -  * Debugger is active!
+2025-07-18 23:30:49,312 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:30:49,645 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:30:51,669 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:30:53,695 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:30:55,696 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:30:55,697 - INFO - 127.0.0.1 - - [18/Jul/2025 23:30:55] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:31:17,419 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-18 23:31:17,419 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:31:17,420 - INFO -  * Restarting with stat
+2025-07-18 23:31:17,915 - WARNING -  * Debugger is active!
+2025-07-18 23:31:17,922 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:31:19,316 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:20,204 - INFO - 127.0.0.1 - - [18/Jul/2025 23:31:20] "GET / HTTP/1.1" 200 -
+2025-07-18 23:31:20,604 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:21,344 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:22,629 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:23,373 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:25,043 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:31:25,044 - INFO - 127.0.0.1 - - [18/Jul/2025 23:31:25] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:31:25,373 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:31:25,373 - INFO - 127.0.0.1 - - [18/Jul/2025 23:31:25] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:31:50,335 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:52,354 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:54,395 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:31:56,396 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:31:56,396 - INFO - 127.0.0.1 - - [18/Jul/2025 23:31:56] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:32:20,647 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:32:22,679 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:32:24,713 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:32:26,713 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:32:26,713 - INFO - 127.0.0.1 - - [18/Jul/2025 23:32:26] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:32:50,338 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:32:52,360 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:32:54,388 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:32:56,388 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:32:56,388 - INFO - 127.0.0.1 - - [18/Jul/2025 23:32:56] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:33:20,634 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:33:22,658 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:33:24,686 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:33:26,687 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:33:26,687 - INFO - 127.0.0.1 - - [18/Jul/2025 23:33:26] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:33:50,336 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:33:52,348 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:33:54,384 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:33:56,385 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:33:56,385 - INFO - 127.0.0.1 - - [18/Jul/2025 23:33:56] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:34:20,627 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:34:22,654 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:34:24,684 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:34:26,685 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:34:26,685 - INFO - 127.0.0.1 - - [18/Jul/2025 23:34:26] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:34:50,637 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:34:52,668 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:34:54,693 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:34:56,693 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:34:56,693 - INFO - 127.0.0.1 - - [18/Jul/2025 23:34:56] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:35:45,338 - WARNING - Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:35:47,360 - WARNING - Attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:35:49,388 - WARNING - Attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:35:51,389 - ERROR - Failed to fetch RSS feed after 3 attempts
+2025-07-18 23:35:51,389 - INFO - 127.0.0.1 - - [18/Jul/2025 23:35:51] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:36:46,168 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:36:46,169 - INFO - 127.0.0.1 - - [18/Jul/2025 23:36:46] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:37:13,761 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:37:13,794 - INFO -  * Restarting with stat
+2025-07-18 23:37:14,333 - WARNING -  * Debugger is active!
+2025-07-18 23:37:14,340 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:37:45,642 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:37:47,664 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:37:49,690 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:37:51,691 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:37:53,074 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:37:53,075 - INFO - 127.0.0.1 - - [18/Jul/2025 23:37:53] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:38:13,765 - INFO - Saved images to cache
+2025-07-18 23:38:13,765 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:38:13,765 - INFO - 127.0.0.1 - - [18/Jul/2025 23:38:13] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:38:15,061 - INFO - 127.0.0.1 - - [18/Jul/2025 23:38:15] "GET / HTTP/1.1" 200 -
+2025-07-18 23:38:15,795 - INFO - Saved images to cache
+2025-07-18 23:38:15,795 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:38:15,796 - INFO - 127.0.0.1 - - [18/Jul/2025 23:38:15] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:38:45,817 - INFO - Saved images to cache
+2025-07-18 23:38:45,817 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:38:45,818 - INFO - 127.0.0.1 - - [18/Jul/2025 23:38:45] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:39:16,142 - INFO - Saved images to cache
+2025-07-18 23:39:16,142 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:39:16,142 - INFO - 127.0.0.1 - - [18/Jul/2025 23:39:16] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:39:45,841 - INFO - Saved images to cache
+2025-07-18 23:39:45,841 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:39:45,842 - INFO - 127.0.0.1 - - [18/Jul/2025 23:39:45] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:40:16,984 - INFO - Saved images to cache
+2025-07-18 23:40:16,984 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:40:16,984 - INFO - 127.0.0.1 - - [18/Jul/2025 23:40:16] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:40:45,759 - INFO - Saved images to cache
+2025-07-18 23:40:45,759 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:40:45,759 - INFO - 127.0.0.1 - - [18/Jul/2025 23:40:45] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:41:15,649 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:41:17,670 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:41:19,699 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:41:21,700 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:41:23,037 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:41:23,037 - INFO - 127.0.0.1 - - [18/Jul/2025 23:41:23] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-18 23:41:45,338 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:41:47,734 - INFO - Saved images to cache
+2025-07-18 23:41:47,734 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:41:47,734 - INFO - 127.0.0.1 - - [18/Jul/2025 23:41:47] "GET /images HTTP/1.1" 200 -
+2025-07-18 23:41:54,573 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:41:54,605 - INFO -  * Restarting with stat
+2025-07-18 23:41:55,191 - WARNING -  * Debugger is active!
+2025-07-18 23:41:55,198 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:42:11,442 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-18 23:42:11,442 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:42:11,443 - INFO -  * Restarting with stat
+2025-07-18 23:42:11,942 - WARNING -  * Debugger is active!
+2025-07-18 23:42:11,949 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:42:14,895 - INFO - 127.0.0.1 - - [18/Jul/2025 23:42:14] "GET / HTTP/1.1" 200 -
+2025-07-18 23:42:15,134 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:18,183 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:21,209 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:24,230 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:27,260 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:30,261 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:42:31,543 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:42:31,544 - INFO - 127.0.0.1 - - [18/Jul/2025 23:42:31] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:42:43,696 - INFO - 127.0.0.1 - - [18/Jul/2025 23:42:43] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-18 23:42:45,311 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:48,334 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:51,373 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:54,397 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:42:57,432 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:00,432 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:43:01,803 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:43:01,804 - INFO - 127.0.0.1 - - [18/Jul/2025 23:43:01] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:43:15,320 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:18,334 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:21,363 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:24,394 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:27,411 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:30,412 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:43:31,825 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:43:31,826 - INFO - 127.0.0.1 - - [18/Jul/2025 23:43:31] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:43:45,643 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:48,678 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:51,716 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:54,728 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:43:57,746 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:44:00,747 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:44:02,204 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:44:02,205 - INFO - 127.0.0.1 - - [18/Jul/2025 23:44:02] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:44:15,323 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:44:18,705 - INFO - Saved images to cache
+2025-07-18 23:44:18,705 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:44:18,706 - INFO - 127.0.0.1 - - [18/Jul/2025 23:44:18] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:44:45,994 - INFO - Saved images to cache
+2025-07-18 23:44:45,994 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:44:45,994 - INFO - 127.0.0.1 - - [18/Jul/2025 23:44:45] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:45:15,338 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:45:18,357 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:45:21,748 - INFO - Saved images to cache
+2025-07-18 23:45:21,748 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:45:21,748 - INFO - 127.0.0.1 - - [18/Jul/2025 23:45:21] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:45:45,638 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:45:49,017 - INFO - Saved images to cache
+2025-07-18 23:45:49,017 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:45:49,017 - INFO - 127.0.0.1 - - [18/Jul/2025 23:45:49] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:46:27,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-18 23:46:27,613 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:46:27,614 - INFO -  * Restarting with stat
+2025-07-18 23:46:28,112 - WARNING -  * Debugger is active!
+2025-07-18 23:46:28,119 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:46:45,321 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:46:48,357 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:46:51,397 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:46:54,421 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:46:57,440 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:00,441 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:47:01,830 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:47:01,831 - INFO - 127.0.0.1 - - [18/Jul/2025 23:47:01] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:47:15,016 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:18,056 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:21,090 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:24,492 - INFO - Saved images to cache
+2025-07-18 23:47:24,492 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:47:24,493 - INFO - 127.0.0.1 - - [18/Jul/2025 23:47:24] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:47:45,334 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:48,368 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:51,403 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:54,445 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:47:57,818 - INFO - Saved images to cache
+2025-07-18 23:47:57,818 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:47:57,818 - INFO - 127.0.0.1 - - [18/Jul/2025 23:47:57] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:48:15,017 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:18,025 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:21,056 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:24,068 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:27,086 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:30,086 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:48:31,454 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:48:31,455 - INFO - 127.0.0.1 - - [18/Jul/2025 23:48:31] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:48:45,315 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:48,327 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:51,343 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:54,355 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:48:57,372 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:00,373 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:49:01,705 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:49:01,705 - INFO - 127.0.0.1 - - [18/Jul/2025 23:49:01] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:49:15,004 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:18,021 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:21,052 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:24,491 - INFO - Saved images to cache
+2025-07-18 23:49:24,491 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:49:24,491 - INFO - 127.0.0.1 - - [18/Jul/2025 23:49:24] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:49:45,307 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:48,319 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:51,335 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:54,348 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:49:57,718 - INFO - Saved images to cache
+2025-07-18 23:49:57,718 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:49:57,719 - INFO - 127.0.0.1 - - [18/Jul/2025 23:49:57] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:50:15,339 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:50:18,371 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:50:21,403 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:50:24,415 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:50:27,461 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:50:30,462 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:50:31,936 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:50:31,937 - INFO - 127.0.0.1 - - [18/Jul/2025 23:50:31] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:50:45,650 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:50:49,037 - INFO - Saved images to cache
+2025-07-18 23:50:49,037 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:50:49,038 - INFO - 127.0.0.1 - - [18/Jul/2025 23:50:49] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:51:45,325 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:51:48,357 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:51:51,397 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:51:54,814 - INFO - Saved images to cache
+2025-07-18 23:51:54,814 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:51:54,815 - INFO - 127.0.0.1 - - [18/Jul/2025 23:51:54] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:52:15,324 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:18,351 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:21,369 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:24,403 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:27,441 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:30,442 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:52:31,830 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:52:31,831 - INFO - 127.0.0.1 - - [18/Jul/2025 23:52:31] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:52:45,338 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:48,371 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:51,400 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:54,422 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:52:57,936 - INFO - Saved images to cache
+2025-07-18 23:52:57,936 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:52:57,937 - INFO - 127.0.0.1 - - [18/Jul/2025 23:52:57] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:53:15,664 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:18,689 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:21,709 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:24,728 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:27,764 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:30,764 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:53:32,098 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:53:32,099 - INFO - 127.0.0.1 - - [18/Jul/2025 23:53:32] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:53:45,321 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:48,356 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:51,390 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:54,426 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:53:57,467 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:54:00,468 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:54:01,753 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:54:01,754 - INFO - 127.0.0.1 - - [18/Jul/2025 23:54:01] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:54:25,134 - INFO - Saved images to cache
+2025-07-18 23:54:25,134 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:54:25,135 - INFO - 127.0.0.1 - - [18/Jul/2025 23:54:25] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:54:45,006 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:54:48,017 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:54:51,034 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:54:54,052 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:54:57,069 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:55:00,070 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:55:01,445 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:55:01,446 - INFO - 127.0.0.1 - - [18/Jul/2025 23:55:01] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:55:15,658 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:55:18,669 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:55:21,687 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:55:24,698 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:55:27,730 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 23:55:30,732 - INFO - Falling back to proxy for RSS fetch
+2025-07-18 23:55:32,119 - ERROR - Proxy fetch failed: Status 403
+2025-07-18 23:55:32,120 - INFO - 127.0.0.1 - - [18/Jul/2025 23:55:32] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-18 23:55:43,920 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:55:43,971 - INFO -  * Restarting with stat
+2025-07-18 23:55:44,532 - WARNING -  * Debugger is active!
+2025-07-18 23:55:44,538 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:55:46,022 - INFO - Saved images to cache
+2025-07-18 23:55:46,023 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:55:46,023 - INFO - 127.0.0.1 - - [18/Jul/2025 23:55:46] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:56:46,188 - INFO - Saved images to cache
+2025-07-18 23:56:46,188 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:56:46,188 - INFO - 127.0.0.1 - - [18/Jul/2025 23:56:46] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:57:03,814 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:57:03,869 - INFO -  * Restarting with stat
+2025-07-18 23:57:04,443 - WARNING -  * Debugger is active!
+2025-07-18 23:57:04,450 - INFO -  * Debugger PIN: 589-900-474
+2025-07-18 23:57:15,702 - INFO - Saved images to cache
+2025-07-18 23:57:15,702 - INFO - Fetched 25 images from RSS feed
+2025-07-18 23:57:15,703 - INFO - 127.0.0.1 - - [18/Jul/2025 23:57:15] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-18 23:57:43,066 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-18 23:57:43,099 - INFO -  * Restarting with stat
+2025-07-19 00:01:18,541 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-19 00:01:18,541 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-19 00:01:18,542 - INFO -  * Restarting with stat
+2025-07-19 00:01:19,067 - WARNING -  * Debugger is active!
+2025-07-19 00:01:19,074 - INFO -  * Debugger PIN: 589-900-474
+2025-07-19 00:01:19,171 - INFO - 127.0.0.1 - - [19/Jul/2025 00:01:19] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:01:19,311 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:01:22,324 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:01:25,340 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:01:28,365 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:01:31,401 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:01:34,402 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:01:35,819 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:01:35,820 - INFO - 127.0.0.1 - - [19/Jul/2025 00:01:35] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:01:50,637 - INFO - Saved images to cache
+2025-07-19 00:01:50,637 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:01:50,637 - INFO - 127.0.0.1 - - [19/Jul/2025 00:01:50] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:02:19,316 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:02:22,765 - INFO - Saved images to cache
+2025-07-19 00:02:22,765 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:02:22,765 - INFO - 127.0.0.1 - - [19/Jul/2025 00:02:22] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:02:49,642 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:02:52,652 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:02:55,670 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:02:59,041 - INFO - Saved images to cache
+2025-07-19 00:02:59,041 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:02:59,042 - INFO - 127.0.0.1 - - [19/Jul/2025 00:02:59] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:03:19,337 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:03:22,370 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:03:25,796 - INFO - Saved images to cache
+2025-07-19 00:03:25,797 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:03:25,797 - INFO - 127.0.0.1 - - [19/Jul/2025 00:03:25] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:03:44,336 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-19 00:03:44,366 - INFO -  * Restarting with stat
+2025-07-19 00:04:47,419 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-07-19 00:04:47,419 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-19 00:04:47,420 - INFO -  * Restarting with stat
+2025-07-19 00:04:47,926 - WARNING -  * Debugger is active!
+2025-07-19 00:04:47,933 - INFO -  * Debugger PIN: 589-900-474
+2025-07-19 00:04:49,640 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:04:52,668 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:04:55,703 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:04:58,727 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:01,756 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:04,757 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:05:06,093 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:05:06,094 - INFO - 127.0.0.1 - - [19/Jul/2025 00:05:06] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:05:19,319 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:22,331 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:25,364 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:28,403 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:31,435 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:34,435 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:05:35,761 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:05:35,761 - INFO - 127.0.0.1 - - [19/Jul/2025 00:05:35] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:05:49,637 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:52,670 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:55,686 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:05:58,721 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:06:01,769 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:06:04,770 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:06:06,147 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:06:06,148 - INFO - 127.0.0.1 - - [19/Jul/2025 00:06:06] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:06:19,717 - INFO - Saved images to cache
+2025-07-19 00:06:19,717 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:06:19,717 - INFO - 127.0.0.1 - - [19/Jul/2025 00:06:19] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:06:50,022 - INFO - Saved images to cache
+2025-07-19 00:06:50,022 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:06:50,023 - INFO - 127.0.0.1 - - [19/Jul/2025 00:06:50] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:07:19,326 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:07:22,349 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:07:25,377 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:07:28,407 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:07:31,441 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:07:34,441 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:07:35,808 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:07:35,809 - INFO - 127.0.0.1 - - [19/Jul/2025 00:07:35] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:07:49,636 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:07:53,114 - INFO - Saved images to cache
+2025-07-19 00:07:53,114 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:07:53,114 - INFO - 127.0.0.1 - - [19/Jul/2025 00:07:53] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:08:19,332 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:22,361 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:25,378 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:28,406 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:31,444 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:34,445 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:08:35,779 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:08:35,780 - INFO - 127.0.0.1 - - [19/Jul/2025 00:08:35] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:08:49,645 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:52,680 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:53,428 - INFO - 127.0.0.1 - - [19/Jul/2025 00:08:53] "GET / HTTP/1.1" 200 -
+2025-07-19 00:08:53,838 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:55,696 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:56,866 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:58,726 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:08:59,899 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:01,756 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:02,931 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:04,757 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:09:06,159 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:09:06,160 - INFO - 127.0.0.1 - - [19/Jul/2025 00:09:06] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:09:06,372 - INFO - Saved images to cache
+2025-07-19 00:09:06,372 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:09:06,372 - INFO - 127.0.0.1 - - [19/Jul/2025 00:09:06] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:09:13,549 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:16,923 - INFO - Saved images to cache
+2025-07-19 00:09:16,924 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:09:16,924 - INFO - 127.0.0.1 - - [19/Jul/2025 00:09:16] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:09:23,871 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:26,909 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:29,943 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:32,955 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:35,994 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:38,994 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:09:40,385 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:09:40,386 - INFO - 127.0.0.1 - - [19/Jul/2025 00:09:40] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:09:43,554 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:46,589 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:49,618 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:52,652 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:09:56,103 - INFO - Saved images to cache
+2025-07-19 00:09:56,103 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:09:56,103 - INFO - 127.0.0.1 - - [19/Jul/2025 00:09:56] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:10:04,201 - INFO - Saved images to cache
+2025-07-19 00:10:04,201 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:10:04,201 - INFO - 127.0.0.1 - - [19/Jul/2025 00:10:04] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:10:14,430 - INFO - Saved images to cache
+2025-07-19 00:10:14,430 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:10:14,431 - INFO - 127.0.0.1 - - [19/Jul/2025 00:10:14] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:10:25,895 - INFO - Saved images to cache
+2025-07-19 00:10:25,895 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:10:25,895 - INFO - 127.0.0.1 - - [19/Jul/2025 00:10:25] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:10:33,968 - INFO - Saved images to cache
+2025-07-19 00:10:33,968 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:10:33,969 - INFO - 127.0.0.1 - - [19/Jul/2025 00:10:33] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:10:43,870 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:10:46,897 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:10:49,918 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:10:52,950 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:10:55,980 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:10:58,980 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:11:00,370 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:11:00,370 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:00] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:11:03,558 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:07,025 - INFO - Saved images to cache
+2025-07-19 00:11:07,025 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:11:07,026 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:07] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:11:13,871 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:16,900 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:19,929 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:23,354 - INFO - Saved images to cache
+2025-07-19 00:11:23,354 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:11:23,354 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:23] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:11:23,559 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:26,598 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:29,617 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:33,113 - INFO - Saved images to cache
+2025-07-19 00:11:33,113 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:11:33,113 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:33] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:11:33,870 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:11:38,982 - INFO - Saved images to cache
+2025-07-19 00:11:38,982 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:11:38,982 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:38] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:11:43,953 - INFO - Saved images to cache
+2025-07-19 00:11:43,953 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:11:43,954 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:43] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:11:54,196 - INFO - Saved images to cache
+2025-07-19 00:11:54,196 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:11:54,197 - INFO - 127.0.0.1 - - [19/Jul/2025 00:11:54] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:11:55,895 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-19 00:11:55,926 - INFO -  * Restarting with stat
+2025-07-19 00:11:56,445 - WARNING -  * Debugger is active!
+2025-07-19 00:11:56,451 - INFO -  * Debugger PIN: 589-900-474
+2025-07-19 00:12:03,861 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:12:07,320 - INFO - Saved images to cache
+2025-07-19 00:12:07,320 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:12:07,320 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:12:07,327 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:07] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:12:13,552 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:12:16,992 - INFO - Saved images to cache
+2025-07-19 00:12:16,992 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:12:16,992 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:12:16,998 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:16] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:12:24,252 - INFO - Saved images to cache
+2025-07-19 00:12:24,252 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:12:24,252 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:12:24,257 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:24] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:12:33,561 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:12:36,582 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:12:39,982 - INFO - Saved images to cache
+2025-07-19 00:12:39,982 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:12:39,982 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:12:39,987 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:39] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:12:44,222 - INFO - Saved images to cache
+2025-07-19 00:12:44,223 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:12:44,223 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:12:44,228 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:44] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:12:52,060 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:52] "GET / HTTP/1.1" 200 -
+2025-07-19 00:12:52,868 - INFO - Saved images to cache
+2025-07-19 00:12:52,868 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:12:52,868 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:12:52,874 - INFO - 127.0.0.1 - - [19/Jul/2025 00:12:52] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:13:01,499 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-19 00:13:01,536 - INFO -  * Restarting with stat
+2025-07-19 00:13:02,055 - WARNING -  * Debugger is active!
+2025-07-19 00:13:02,062 - INFO -  * Debugger PIN: 589-900-474
+2025-07-19 00:13:05,797 - INFO - 127.0.0.1 - - [19/Jul/2025 00:13:05] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:13:06,027 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:13:09,421 - INFO - Saved images to cache
+2025-07-19 00:13:09,421 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:13:09,421 - ERROR - Error fetching images: name 'offset' is not defined
+2025-07-19 00:13:09,427 - INFO - 127.0.0.1 - - [19/Jul/2025 00:13:09] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:13:26,490 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-19 00:13:26,524 - INFO -  * Restarting with stat
+2025-07-19 00:13:27,123 - WARNING -  * Debugger is active!
+2025-07-19 00:13:27,130 - INFO -  * Debugger PIN: 589-900-474
+2025-07-19 00:13:28,328 - INFO - 127.0.0.1 - - [19/Jul/2025 00:13:28] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:13:28,562 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:13:31,597 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:13:34,616 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:13:37,651 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:13:41,102 - INFO - Saved images to cache
+2025-07-19 00:13:41,102 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:13:41,102 - INFO - 127.0.0.1 - - [19/Jul/2025 00:13:41] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:13:44,431 - INFO -  * Detected change in 'C:\\setup_pin\\server.py', reloading
+2025-07-19 00:13:44,468 - INFO -  * Restarting with stat
+2025-07-19 00:13:45,068 - WARNING -  * Debugger is active!
+2025-07-19 00:13:45,075 - INFO -  * Debugger PIN: 589-900-474
+2025-07-19 00:14:18,966 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:18] "GET / HTTP/1.1" 200 -
+2025-07-19 00:14:19,184 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:22,220 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:25,251 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:28,264 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:31,292 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:34,293 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:14:35,430 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:35] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:14:35,696 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:14:35,697 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:35] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-19 00:14:35,813 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:36,509 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:36] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:14:36,874 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:38,825 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:39,907 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:41,868 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:43,056 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:43] "GET / HTTP/1.1" 200 -
+2025-07-19 00:14:43,384 - INFO - Saved images to cache
+2025-07-19 00:14:43,384 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:14:43,385 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:43] "GET /images HTTP/1.1" 200 -
+2025-07-19 00:14:43,448 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:44,895 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:46,488 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:47,906 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:49,521 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:50,906 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:14:52,259 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:14:52,260 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:52] "[35m[1mGET /images HTTP/1.1[0m" 500 -
+2025-07-19 00:14:52,553 - WARNING - Direct attempt 4 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:55,564 - WARNING - Direct attempt 5 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:14:58,564 - INFO - Falling back to proxy for RSS fetch
+2025-07-19 00:14:59,901 - ERROR - Proxy fetch failed: Status 403
+2025-07-19 00:14:59,902 - INFO - 127.0.0.1 - - [19/Jul/2025 00:14:59] "[35m[1mGET /images?offset=0 HTTP/1.1[0m" 500 -
+2025-07-19 00:16:49,343 - INFO - 127.0.0.1 - - [19/Jul/2025 00:16:49] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:16:50,125 - INFO - Saved images to cache
+2025-07-19 00:16:50,125 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:16:50,125 - INFO - 127.0.0.1 - - [19/Jul/2025 00:16:50] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:19:28,988 - INFO - 127.0.0.1 - - [19/Jul/2025 00:19:28] "GET / HTTP/1.1" 200 -
+2025-07-19 00:19:29,664 - INFO - Saved images to cache
+2025-07-19 00:19:29,664 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:19:29,664 - INFO - 127.0.0.1 - - [19/Jul/2025 00:19:29] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:19:35,379 - INFO - 127.0.0.1 - - [19/Jul/2025 00:19:35] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-19 00:19:36,145 - INFO - Saved images to cache
+2025-07-19 00:19:36,145 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:19:36,146 - INFO - 127.0.0.1 - - [19/Jul/2025 00:19:36] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:26:21,640 - INFO - 127.0.0.1 - - [19/Jul/2025 00:26:21] "GET / HTTP/1.1" 200 -
+2025-07-19 00:26:22,309 - INFO - Saved images to cache
+2025-07-19 00:26:22,309 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:26:22,310 - INFO - 127.0.0.1 - - [19/Jul/2025 00:26:22] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:26:45,326 - INFO - 127.0.0.1 - - [19/Jul/2025 00:26:45] "GET / HTTP/1.1" 200 -
+2025-07-19 00:26:45,689 - WARNING - Direct attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:26:48,720 - WARNING - Direct attempt 2 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:26:51,756 - WARNING - Direct attempt 3 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-19 00:26:53,073 - INFO - 127.0.0.1 - - [19/Jul/2025 00:26:53] "GET / HTTP/1.1" 200 -
+2025-07-19 00:26:53,712 - INFO - Saved images to cache
+2025-07-19 00:26:53,712 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:26:53,712 - INFO - 127.0.0.1 - - [19/Jul/2025 00:26:53] "GET /images?offset=0 HTTP/1.1" 200 -
+2025-07-19 00:26:55,151 - INFO - Saved images to cache
+2025-07-19 00:26:55,151 - INFO - Fetched 25 images from RSS feed
+2025-07-19 00:26:55,151 - INFO - 127.0.0.1 - - [19/Jul/2025 00:26:55] "GET /images?offset=0 HTTP/1.1" 200 -

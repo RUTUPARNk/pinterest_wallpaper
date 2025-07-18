@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pinterest Slideshow Wall</title>
+  <style>
+    :root {
+      --gestalt-theme: visualrefresh;
+      --gestalt-color-scheme: lightMode;
+      --gestalt-line-height: defaultMode;
+      --pinterest-background: #ffffff;
+      --pinterest-primary: #e60023;
+      --pinterest-text: #111111;
+    }
+
+    body {
+      margin: 0;
+      background: var(--pinterest-background);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    #slideshow {
+      width: 100vw;
+      min-height: 100vh;
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 20px;
+      box-sizing: border-box;
+      overflow-y: auto;
+    }
+
+    .pin {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .pin:hover {
+      transform: scale(1.05);
+    }
+
+    .slideshow-overlay {
+      position: fixed;
+      bottom: 20px;
+      left: 20px;
+      color: var(--pinterest-text);
+      font-size: 14px;
+      font-weight: 600;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 8px 16px;
+      border-radius: 12px;
+    }
+
+    .error-message {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--pinterest-text);
+      font-size: 18px;
+      font-weight: 500;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      border-radius: 12px;
+      text-align: center;
+      max-width: 80%;
+    }
+
+    .loading {
+      display: none;
+      text-align: center;
+      padding: 20px;
+      font-size: 16px;
+      color: var(--pinterest-text);
+    }
+  </style>
+</head>
+<body>
+  <div id="slideshow"></div>
+  <div class="slideshow-overlay">Inspired by Pinterest</div>
+  <div class="error-message" id="error-message">Failed to load images. Check server log for details.</div>
+  <div class="loading" id="loading">Loading more images...</div>
+
+  <script>
+    const slideshow = document.getElementById('slideshow');
+    const errorMessage = document.getElementById('error-message');
+    const loading = document.getElementById('loading');
+    const images = [];
+    let offset = 0;
+    let isLoading = false;
+
+    async function loadImages() {
+      if (isLoading) return;
+      isLoading = true;
+      loading.style.display = 'block';
+      try {
+        const response = await fetch(`/images?offset=${offset}`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}: Failed to fetch images.`);
+        const imageUrls = await response.json();
+        if (imageUrls.length === 0 && offset === 0) {
+          throw new Error('No images found in feed.');
+        }
+        images.push(...imageUrls);
+        offset += imageUrls.length;
+        errorMessage.style.display = 'none';
+        updateSlideshow(imageUrls);
+      } catch (error) {
+        console.error('Error loading images:', error);
+        errorMessage.textContent = `Failed to load images: ${error.message}`;
+        errorMessage.style.display = 'block';
+      } finally {
+        isLoading = false;
+        loading.style.display = 'none';
+      }
+    }
+
+    function updateSlideshow(newImages) {
+      newImages.forEach(src => {
+        const img = document.createElement('img');
+        img.src = src;
+        img.className = 'pin';
+        img.onerror = () => console.error(`Failed to load image: ${src}`);
+        img.onclick = () => window.open(src, '_blank');
+        slideshow.appendChild(img);
+      });
+    }
+
+    slideshow.addEventListener('scroll', () => {
+      if (isLoading) return;
+      const { scrollTop, scrollHeight, clientHeight } = slideshow;
+      if (scrollTop + clientHeight >= scrollHeight - 100) {
+        loadImages();
+      }
+    });
+
+    loadImages();
+  </script>
+</body>
+</html>
